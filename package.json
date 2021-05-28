@@ -1,0 +1,21 @@
+{
+    "name": "heat-theme",
+    "displayName": "Heat Theme",
+    "description": "heat theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "DevFireLabs",
+                "uiTheme": "vs-dark",
+                "path": "./themes/DevFireLabs-color-theme.json"
+            }
+        ]
+    }
+}
