@@ -22,6 +22,14 @@
 		"tab.inactiveBackground": "#1c212c",
 		"tab.hoverBackground": "#454e69",
 		"sideBar.foreground": "#B0A4BF",
+		"menu.foreground": "#ffffff",
+		"menu.background": "#454e69",
+		"menu.border": "#ff6c31",
+		"menubar.selectionBackground": "#1c212c",
+		"menubar.selectionForeground": "#cf4848",
+		"statusBar.debuggingBackground": "#3b0606",
+		"statusBar.background": "#454e69",
+		"titleBar.activeBackground": "#1f2431",
 		
 
 	},

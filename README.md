@@ -1,13 +1,12 @@
-# README
-## This is the README for your extension "heat-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<div align="center">
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# <span style="color:#8C1616">Heat</span> Visual Studio Code Theme
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+DevFire Labs custom Heat theme for Visual Studio Code
 
-**Enjoy!**
+[![vscode](https://img.shields.io/badge/VSCODE-1.56%2B-red?style=for-the-badge)](https://code.visualstudio.com/updates/v1_56) [![vscode](https://img.shields.io/badge/Built%20by-Rocket%20Scientists-red?style=for-the-badge)](https://github.com/Devfire-Labs)
+
+</div>
+
+## How to use it?
+

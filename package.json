@@ -1,8 +1,10 @@
 {
     "name": "heat-theme",
     "displayName": "Heat Theme",
-    "description": "heat theme",
-    "version": "0.0.1",
+    "publisher": "DevFireLabs",
+    "author": "Luis Bonilla, DevFire Labs",
+    "description": "DevFire Labs custom Heat theme for Visual Studio Code",
+    "version": "1.0.0",
     "engines": {
         "vscode": "^1.56.0"
     },
