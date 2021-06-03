@@ -4,17 +4,21 @@
     "publisher": "DevFireLabs",
     "author": "Luis Bonilla, DevFire Labs",
     "description": "DevFire Labs custom Heat theme for Visual Studio Code",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.56.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Devfire-Labs/heat-theme-Vscode"
+      },
     "categories": [
         "Themes"
     ],
     "contributes": {
         "themes": [
             {
-                "label": "DevFireLabs",
+                "label": "Heat Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/DevFireLabs-color-theme.json"
             }
