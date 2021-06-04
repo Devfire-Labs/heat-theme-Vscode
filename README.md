@@ -17,3 +17,7 @@ DevFire Labs custom Heat theme for Visual Studio Code
 
 1. Search for **Heat Theme** by `DevFire Labs` on the extensions sidebar and **Install it**.
 1. In any case you switch to another theme and want to go back: Navigate to File > Preferences > Color Theme > **Heat Theme**
+
+## Authors
+
+🔥🔥🔥 Designed by **[DevFire Labs](https://github.com/Devfire-Labs)** 🔥🔥🔥
