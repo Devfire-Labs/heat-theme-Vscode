@@ -8,6 +8,9 @@ DevFire Labs custom Heat theme for Visual Studio Code
 
 </div>
 
+
+
+
 ## How to use it?
 
 1. Search for **Heat Theme** by `DevFire Labs` on the extensions sidebar and **Install it**.
