@@ -15,6 +15,11 @@
     "categories": [
         "Themes"
     ],
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Devfire-Labs/heat-theme-Vscode/issues"
+      },
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {
