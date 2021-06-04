@@ -8,8 +8,10 @@ DevFire Labs custom Heat theme for Visual Studio Code
 
 </div>
 
+## Examples
 
-
+![Example #1](example1.png)
+![Example #2](example2.png)
 
 ## How to use it?
 
