@@ -4,7 +4,7 @@
     "publisher": "DevFireLabs",
     "author": "Luis Bonilla, DevFire Labs",
     "description": "DevFire Labs custom Heat theme for Visual Studio Code",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.56.0"
     },
